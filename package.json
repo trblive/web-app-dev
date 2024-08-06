@@ -1,0 +1,13 @@
+{
+  "name": "dip-web-application-development-classes",
+  "version": "1.0.0",
+  "description": "Sessions will include lecture material & coding challenges. We provide base content for you to use in your learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
